@@ -1,0 +1,8 @@
+X Can create an instance of the Checkout class
+X Can add an item price
+X Can add an item
+X Can calculate the current total
+X Can add multiple items and get correct total
+X Can add discount rules
+X Can apply discount rules to the total
+X Exception is thrown for item added without price
